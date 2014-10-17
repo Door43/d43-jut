@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jut:home|Door43 (jut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jut|d43-jut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jut/archive/master.zip|d43-jut.zip]]
+
+**Recent Changes**
+{{changes>ns = jut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jut|Ethnologue data]]
+
